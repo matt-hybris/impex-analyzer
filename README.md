@@ -10,12 +10,12 @@ This initial commit only detects unresolved lines.
 
 In the mean time, feel free to send me impex errors that it doesn't recognize and I'll try to add as many cases as possible.
 
-Usage:
+##Usage:
 
 I'm using Spring boot, for now you can just run it with the Gradle wrapper.
 
-gradlew bootRun
+`gradlew bootRun`
 
-Then http://localhost:8080/single
+Then [http://localhost:8080/single](http://localhost:8080/single)
 
 If I can actually get this into a nicer state I may host it on AWS or something. 
