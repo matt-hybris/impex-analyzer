@@ -1,4 +1,4 @@
-# impex-analyzer
+# Impex Log Analyzer
 Utility project to analyze not so user friendly impex errors. 
 
 If you've worked with hybris before you've for sure had some impex errors and you may have noticed the logs can be verbose. 
